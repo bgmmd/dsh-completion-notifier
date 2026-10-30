@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "任务完成提醒",
+    "description": "对话任务完成时播放提示音，并弹出 Windows 通知。"
+  }
+}

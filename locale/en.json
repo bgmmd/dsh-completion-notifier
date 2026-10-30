@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Task Completion Notifier",
+    "description": "Plays a chime and shows a Windows notification when a conversation turn finishes."
+  }
+}

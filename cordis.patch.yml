@@ -1,0 +1,6 @@
+- insert:
+    - id: completion-notifier
+      name: '@local/completion-notifier'
+      config:
+        sound: true
+        toast: true
